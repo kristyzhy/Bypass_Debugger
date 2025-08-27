@@ -39,4 +39,4 @@ setInterval(dbg,3000);
 
 ## Contact
 
-如有bug或其他问题可提交issues，或者关注公众号Spade sec联系我。
+如有bug或其他问题可提交issues。
